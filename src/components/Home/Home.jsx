@@ -24,6 +24,7 @@ function Home() {
                 </div>
             </section>
         </div>
+        <div><img src='/Images/school-divider.png' alt="" id='imagelogo'/></div>
 
         <div className="container">
             <section>

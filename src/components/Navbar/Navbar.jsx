@@ -13,6 +13,7 @@ function Navbar() {
   };
 
   return (
+    <>
     <nav className="navbar navbar-expand-lg">
       <div className="container-fluid">
         <a className="navbar-brand me-5" href="#">
@@ -97,7 +98,11 @@ function Navbar() {
           </form>
         </div>
       </div>
+      
     </nav>
+    {/* <div><img src='/Images/school-divider.png' alt="" id='imagelogo'/></div> */}
+    </>
+   
   );
 }
 
